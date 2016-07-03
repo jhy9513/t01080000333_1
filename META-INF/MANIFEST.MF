@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: t01080000333_2
+Bundle-SymbolicName: t01080000333_2
+Bundle-Version: 1.0.0.qualifier
